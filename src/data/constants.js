@@ -367,7 +367,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/ST-dev100/Book-Rental-System",
-    webapp: "https://book-rental-system-ten.vercel.app/",
+    webapp: "https://book-rental-system-seven.vercel.app/login",
   },
   {
     id: 2,
