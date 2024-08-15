@@ -159,7 +159,7 @@ export const skills = [
     title: "Android",
     skills: [
       {
-        name: "Flutter",
+        name: "java",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
       },
