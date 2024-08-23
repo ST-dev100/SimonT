@@ -434,5 +434,18 @@ export const projects = [
     github: "https://github.com/ST-dev100/Recipe-App",
     webapp: "https://recipe-app-olive-alpha.vercel.app/",
   },
+  {
+    id: 6,
+    title: "Admin Dashboard",
+    date: "Jun 2024",
+    description:
+      " This Admin Dashboard is designed with a modern and intuitive user interface that combines aesthetics with functionality. It's crafted to provide administrators with a seamless experience, enabling them to efficiently manage and monitor key aspects of the system.",
+    image:
+      "vision-ui-dashboard-free-chakra.png",
+    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
+    category: "web app",
+    github: "https://github.com/ST-dev100/Admin-Dashboard",
+    webapp: "https://admin-dashboard-seven-pied-89.vercel.app/dashboard",
+  },
 ];
 
