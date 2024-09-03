@@ -348,8 +348,29 @@ export const education = [
 ];
 
 export const projects = [
-    {
+      {
     id: 1,
+    title: "Music Player",
+    date: "Oct 2022 - Jan 2023",
+    description:
+      "This music player web application. It is very user-friendly, allowing you to easily upload your favorite music and listen to it anytime. With a sleek interface and smooth playback, this application is designed to enhance your music experience. You can also create playlists, explore new tracks, and enjoy high-quality audio streaming. Whether you're at home or on the go, this app brings your music to life.",
+    image:
+      "preloader.jpg",
+    tags: [
+      "React Js",
+      "Mongodb",
+      "Redux",
+      "Express Js",
+      "Redux Saga",
+      "Redux Toolkit",
+      "TypeScript"
+    ],
+    category: "web app",
+    github: "https://github.com/ST-dev100/Simon-Music-Player",
+    webapp: "https://simon-music-player-frontend.vercel.app/",
+  },
+    {
+    id: 2,
     title: "Book Rental Managment System",
     date: "Oct 2022 - Jan 2023",
     description:
@@ -370,7 +391,7 @@ export const projects = [
     webapp: "https://book-rental-system-seven.vercel.app/login",
   },
   {
-    id: 2,
+    id: 3,
     title: "Ecommerce website",
     date: "Jan 2023 - Mar 2023",
     description:
@@ -383,7 +404,7 @@ export const projects = [
     webapp: "https://etsy-frontend-project.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Lara gigs",
     date: "Dec 2021 - Apr 2022",
     description:
@@ -396,7 +417,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 10,
+    id: 5,
     title: "MERN-REAL-TIME-CHAT-APPLICATION",
     date: "Jun 2023 - Jul 2023",
     description:
@@ -409,7 +430,7 @@ export const projects = [
     webapp: "https://mern-real-time-chat-application.onrender.com/login",
   },
   {
-    id: 4,
+    id: 6,
     title: "Next js List of Song Albums with CRUD Operations",
     date: "Jul 2021",
     description:
@@ -422,7 +443,7 @@ export const projects = [
     webapp: "https://menn-stack-project.vercel.app/",
   },
   {
-    id: 5,
+    id: 7,
     title: "Food Recipe App",
     date: "Jun 2024",
     description:
@@ -435,7 +456,7 @@ export const projects = [
     webapp: "https://recipe-app-olive-alpha.vercel.app/",
   },
   {
-    id: 6,
+    id: 8,
     title: "Admin Dashboard",
     date: "Jun 2024",
     description:
