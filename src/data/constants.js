@@ -350,6 +350,28 @@ export const education = [
 export const projects = [
       {
     id: 1,
+    title: "Pizza Ordering Service",
+    date: "Oct 2024 - Jan 2024",
+    description:
+      "role-based pizza delivery web application, built with Next.js, Express.js, and PostgreSQL. For secure, role-based authentication, I integrated CASL authorization on the frontend. I crafted a sleek and engaging UI with Material UI components, and for a responsive, feature-rich table experience, I utilized Material React Table. I’m particularly proud of the advanced logic incorporated throughout the app, which I completed in just one week! To boost performance, I leveraged the useMemo hook, significantly reducing load times by optimizing heavy computations on re-renders. Additionally, I implemented lazy loading for static images, ensuring a smooth and fast user experience. the website",
+    image:
+      "two.png",
+    tags: [
+      "React Js",
+      "Postgresdb",
+      "Redux",
+      "Express Js",
+      "CASL authorization",
+      "Redux Toolkit",
+      "Material UI",
+      "Material React Table"
+    ],
+    category: "web app",
+    github: "https://github.com/ST-dev100/Front-end-code-for-pizza-delivery?tab=readme-ov-file",
+    webapp: "https://pizza-order-kappa.vercel.app/",
+  },
+      {
+    id: 2,
     title: "Music Player",
     date: "Oct 2022 - Jan 2023",
     description:
@@ -370,7 +392,7 @@ export const projects = [
     webapp: "https://simon-music-player-frontend.vercel.app/",
   },
     {
-    id: 2,
+    id: 3,
     title: "Book Rental Managment System",
     date: "Oct 2022 - Jan 2023",
     description:
@@ -391,7 +413,7 @@ export const projects = [
     webapp: "https://book-rental-system-seven.vercel.app/login",
   },
   {
-    id: 3,
+    id: 4,
     title: "Ecommerce website",
     date: "Jan 2023 - Mar 2023",
     description:
@@ -404,7 +426,7 @@ export const projects = [
     webapp: "https://etsy-frontend-project.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Lara gigs",
     date: "Dec 2021 - Apr 2022",
     description:
@@ -417,7 +439,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 5,
+    id: 6,
     title: "MERN-REAL-TIME-CHAT-APPLICATION",
     date: "Jun 2023 - Jul 2023",
     description:
@@ -430,7 +452,7 @@ export const projects = [
     webapp: "https://mern-real-time-chat-application.onrender.com/login",
   },
   {
-    id: 6,
+    id: 7,
     title: "Next js List of Song Albums with CRUD Operations",
     date: "Jul 2021",
     description:
@@ -443,7 +465,7 @@ export const projects = [
     webapp: "https://menn-stack-project.vercel.app/",
   },
   {
-    id: 7,
+    id: 8,
     title: "Food Recipe App",
     date: "Jun 2024",
     description:
@@ -456,7 +478,7 @@ export const projects = [
     webapp: "https://recipe-app-olive-alpha.vercel.app/",
   },
   {
-    id: 8,
+    id: 9,
     title: "Admin Dashboard",
     date: "Jun 2024",
     description:
