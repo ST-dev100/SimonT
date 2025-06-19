@@ -323,6 +323,34 @@ export const experiences = [
       "MongoDB",
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1691181448873.jpeg?alt=media&token=ee85eb8f-7247-43cd-9a1d-ce9f58ea62a6",
+  },
+  {
+    id: 4,
+    img: "fergami.jpg",
+    role: "Fullstack Developer",
+    company: "Fergami Technologies",
+    date: "June 2024 - current",
+    desc: "Since being hired, I have had the privilege of leading the development of Aura, a comprehensive Property Management System, as a Full Stack Developer. This enterprise solution revolutionizes property management by automating workflows and enhancing operational efficiency across all stakeholders. I architected and implemented the full-stack platform using React, Node.js, and PostgreSQL, designing core features including dynamic property registration, automated parking allocation, and digital lease processing. The system incorporates a robust financial management module supporting multi-channel payments and real-time transaction tracking, along with a maintenance ecosystem featuring role-based task assignment and tenant-initiated repair requests with photo documentation. I implemented secure communication channels with real-time messaging and automated notifications, while developing specialized modules for tenant portals, maintenance workflows, and QR-based security access. The technical impact includes an 80% reduction in manual processes through automation, implementation of JWT authentication and role-based access control, and optimization to handle thousands of concurrent users. This project has demonstrated my expertise in full-stack development and system architecture while delivering measurable business value through technology. I continue to enhance the platform with new features to meet evolving market needs.",
+    skills: [
+      "ReactJS",
+      "Redux",
+      "NodeJs",
+      "Flutter",
+      "PostgreSQL",
+      ""Sequelize ORM",
+      "Tailwind CSS",
+      "Antd",
+      "CASL",
+      "React table",
+      "Three js",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Docker",
+      "AWS",
+      "MongoDB",
+    ],
+    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1691181448873.jpeg?alt=media&token=ee85eb8f-7247-43cd-9a1d-ce9f58ea62a6",
   }
 ];
 
@@ -489,6 +517,20 @@ export const projects = [
     category: "web app",
     github: "https://github.com/ST-dev100/Admin-Dashboard",
     webapp: "https://admin-dashboard-seven-pied-89.vercel.app/dashboard",
+  },
+  
+  {
+    id: 10,
+    title: "AURA PMS",
+    date: "Jun 2025",
+    description:
+      " Aura—a scalable property management platform automating leases, payments, maintenance, and security workflows for landlords, tenants, and staff.",
+    image:
+      "vision-ui-dashboard-free-chakra.png",
+    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS","Sequelize ORM","Postgresql"],
+    category: "web app",
+    github: "https://github.com/ST-dev100/Admin-Dashboard",
+    webapp: "https://auraproperties.net/",
   },
 ];
 
