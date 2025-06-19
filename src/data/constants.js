@@ -337,7 +337,7 @@ export const experiences = [
       "NodeJs",
       "Flutter",
       "PostgreSQL",
-      ""Sequelize ORM",
+      "Sequelize ORM",
       "Tailwind CSS",
       "Antd",
       "CASL",
