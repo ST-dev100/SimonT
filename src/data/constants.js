@@ -526,7 +526,7 @@ export const projects = [
     description:
       " Aura—a scalable property management platform automating leases, payments, maintenance, and security workflows for landlords, tenants, and staff.",
     image:
-      "vision-ui-dashboard-free-chakra.png",
+      "AURH.png",
     tags: ["React Js", "Local Storage", "AWS Auth", "Node JS","Sequelize ORM","Postgresql"],
     category: "web app",
     github: "https://github.com/ST-dev100/Admin-Dashboard",
