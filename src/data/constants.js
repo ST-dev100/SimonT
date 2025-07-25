@@ -519,18 +519,18 @@ export const projects = [
     webapp: "https://admin-dashboard-seven-pied-89.vercel.app/dashboard",
   },
   
-  {
-    id: 10,
-    title: "AURA PMS",
-    date: "Jun 2025",
-    description:
-      " Aura—a scalable property management platform automating leases, payments, maintenance, and security workflows for landlords, tenants, and staff.",
-    image:
-      "AURH.png",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS","Sequelize ORM","Postgresql"],
-    category: "web app",
-    github: "https://github.com/ST-dev100/Admin-Dashboard",
-    webapp: "https://auraproperties.net/",
-  },
+  // {
+  //   id: 10,
+  //   title: "AURA PMS",
+  //   date: "Jun 2025",
+  //   description:
+  //     " Aura—a scalable property management platform automating leases, payments, maintenance, and security workflows for landlords, tenants, and staff.",
+  //   image:
+  //     "AURH.png",
+  //   tags: ["React Js", "Local Storage", "AWS Auth", "Node JS","Sequelize ORM","Postgresql"],
+  //   category: "web app",
+  //   github: "https://github.com/ST-dev100/Admin-Dashboard",
+  //   webapp: "https://auraproperties.net/",
+  // },
 ];
 
